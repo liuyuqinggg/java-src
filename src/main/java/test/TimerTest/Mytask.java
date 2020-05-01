@@ -1,4 +1,4 @@
-package test.TimerTest;
+package main.java.test.TimerTest;
 
 
 import java.util.TimerTask;
